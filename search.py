@@ -12,7 +12,6 @@ import datetime
 import urllib3
 import webbrowser
 from concurrent.futures import ThreadPoolExecutor as Modol, ThreadPoolExecutor as tred
-
 import requests
 import pyfiglet
 import stdiomask
